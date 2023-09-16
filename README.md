@@ -13,4 +13,12 @@ Bu projede HTML ve CSS becerilerimi geliştirmek için çalıştım ve Udemig'in
 
 Keyifli incelemeler!
 
+
+WEB
 ![Udemig](https://github.com/yavuzssdemir/Udemig/assets/111619682/e4ec7d75-97e8-4273-b89b-0f3b7d905583)
+
+Tablet
+![UdemigTablet](https://github.com/yavuzssdemir/Udemig/assets/111619682/1f083d1a-a077-4559-80aa-0c1fa24a3031)
+
+Mobil
+![UdemigMobil](https://github.com/yavuzssdemir/Udemig/assets/111619682/327f2593-39cb-4cb1-ae39-9d401430a531)
